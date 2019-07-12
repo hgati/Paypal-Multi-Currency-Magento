@@ -1,5 +1,6 @@
 Paypal-Multi-Currency-Magento
 =============================
+- https://magento.stackexchange.com/a/79666
 
 Paypal Multi Currency Magento
 

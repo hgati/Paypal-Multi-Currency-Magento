@@ -1,0 +1,9 @@
+{
+  "name": "hgati/paypal-multi-currency",
+  "type": "magento-module",
+  "description": "FOR not supported currencies by paypal",
+
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
